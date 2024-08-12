@@ -68,7 +68,7 @@
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "google-analytics": "smartone smartone-service "
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
